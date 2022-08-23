@@ -1,0 +1,26 @@
+{
+  "name": "@myways.ai/next-theme",
+  "version": "1.0.0",
+  "description": "MyWays Frontend Theme",
+  "main": "index.js",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "keywords": [
+    "config",
+    "stylelint",
+    "nextjs"
+  ],
+  "author": "MyWays <dev@myways.ai>",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyWays-in/myways-next-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MyWays-in/myways-next-theme/issues"
+  },
+  "homepage": "https://github.com/MyWays-in/myways-next-theme#readme"
+}
