@@ -88,6 +88,18 @@ module.exports = {
     yellow: "#FBD334",
     green: "#32454D",
     grey: "#E3E3E3",
+    orange: "#FF7A00",
+    lightOrange: "#FFF2DF",
+    // Blue Gradient
+    lightBlue:
+      "linear-gradient(180.07deg, rgba(226, 236, 254, 0.5) 0.06%, rgba(248, 248, 248, 0) 99.94%)",
+    // Social Button Colors
+    telegramBlue1: "#0088CC",
+    telegramBlue2: "#0076B1",
+    discord1: "#7289DA",
+    discord2: "#5F73BB",
+    whatsAppGreen1: "#25D366",
+    whatsAppGreen2: "#23AD56",
     // Old Colors
     primary1: "#000000",
     background1: "#ffffff",
@@ -131,7 +143,9 @@ module.exports = {
     gradient1: "linear-gradient(249.46deg, #FDEBA4 -18.1%, #FAC907 87.02%)",
   },
   shadows: {
-    shadow1: "0px 6px 12px 1px rgba(0,0,0,0.15)",
+    shadow1: "0px 2px 10px rgba(39, 41, 55, 0.08)",
+    shadow2: "0px 6px 24px rgba(39, 41, 55, 0.1)",
+    shadow3: "0px 2px 10px rgba(39, 41, 55, 0.2)",
   },
   /** Defaults */
   fonts: {
