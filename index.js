@@ -93,6 +93,9 @@ module.exports = {
     // Blue Gradient
     lightBlue:
       "linear-gradient(180.07deg, rgba(226, 236, 254, 0.5) 0.06%, rgba(248, 248, 248, 0) 99.94%)",
+    yellow: "linear-gradient(249.46deg, #FDEBA4 -18.1%, #FAC907 87.02%)",
+    yellowReverse: "linear-gradient(249.46deg, #FAC907 -18.1%, #FDEBA4 87.02%)",
+    lightYellow: "linear-gradient(180.07deg, #FEF8E1 0.06%, #FFFFFF 99.94%)",
     // Social Button Colors
     telegramBlue1: "#0088CC",
     telegramBlue2: "#0076B1",
@@ -138,9 +141,6 @@ module.exports = {
       c2: "#0276F9",
       c3: "#2f454a",
     },
-  },
-  gradients: {
-    gradient1: "linear-gradient(249.46deg, #FDEBA4 -18.1%, #FAC907 87.02%)",
   },
   shadows: {
     shadow1: "0px 2px 10px rgba(39, 41, 55, 0.08)",
