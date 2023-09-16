@@ -146,7 +146,7 @@ module.exports = {
     shadow1: "0px 2px 10px rgba(39, 41, 55, 0.08)",
     shadow2: "0px 6px 24px rgba(39, 41, 55, 0.1)",
     shadow3: "0px 2px 10px rgba(39, 41, 55, 0.2)",
-    shadow4: "rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset";
+    shadow4: "rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset",
   },
   /** Defaults */
   fonts: {
